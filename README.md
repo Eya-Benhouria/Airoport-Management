@@ -1,6 +1,6 @@
-# Airport Management System
+# Airport Management System .NET Framework
 
-An application for managing an airport using .NET Framework.
+An application for managing an airoport.
 
 ## Installation
 1. Clone this repository.
